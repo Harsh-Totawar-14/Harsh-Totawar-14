@@ -33,6 +33,6 @@
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=juned012&theme=dark&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juned012&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📊 GitHub Stats:
+[](https://github-readme-streak-stats.herokuapp.com/?user=juned012&theme=dark&hide_border=false)</br>
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=juned012&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
